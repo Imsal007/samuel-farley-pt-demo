@@ -13,4 +13,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://imsal007.github.io/samuel-farley-pt-demo/sitemap.xml
+Sitemap: https://farleyfitnesspt.co.uk/sitemap.xml
